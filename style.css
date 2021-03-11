@@ -54,8 +54,8 @@ body {
 @media screen and (max-width: 768px) {
     .navbar-links li a {
         margin: 0px;
-        font-size: 10px;
-        padding: 5px;
+        font-size: 20px;
+        padding: 6px;
     }
 }
 
